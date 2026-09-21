@@ -88,17 +88,7 @@ Em breve
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanBernardes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanBernardes&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" />
-
-</div>
 
 ---
 
@@ -112,37 +102,9 @@ Em breve
 
 ---
 
-## 📈 Atividade no GitHub
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanBernardes&bg_color=0D1117&color=FFFFFF&line=6366F1&point=8B5CF6&area=true&hide_border=true" width="100%" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ryanBernardes&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" />
-
-</div>
-
----
-
-## 🐍 Snake Contribution
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanBernardes/ryanBernardes/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanBernardes/ryanBernardes/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ryanBernardes/ryanBernardes/output/github-snake.svg">
-</picture>
-
-</div>
 
 ---
 
